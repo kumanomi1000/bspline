@@ -4,8 +4,8 @@
 以下の記事に掲載した、B-スプライン曲線をベジェ曲線に変換して描画するサンプルアプリです。<br>
 This is a sample application, featured in the article below, that converts B-spline curve into Bézier curves for rendering.
 
-[実装技術者向けB-スプライン曲線入門](https://qiita.com/kumanomi1000/items/10fff2a60b1795c00a51)<br>
-[Introduction to B-Spline Curves for Implementation Engineers](https://qiita.com/kumanomi1000/items/eb5284e03a6b8fa0ac9b)
+[Qiita - 実装技術者向けB-スプライン曲線入門](https://qiita.com/kumanomi1000/items/10fff2a60b1795c00a51)<br>
+[Qiita - Introduction to B-Spline Curves for Implementation Engineers](https://qiita.com/kumanomi1000/items/eb5284e03a6b8fa0ac9b)
 
 B-スプライン曲線の種類と制御点の数を設定し、枠内の任意の箇所をクリックして制御点を設定するとB-スプライン曲線が描画されます。<br>
 Specify the type of B-spline curve and the number of control points, then click anywhere within the frame to place the control points; a B-spline curve will then be drawn.
